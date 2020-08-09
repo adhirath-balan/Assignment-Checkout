@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Ruda', sans-serif;
+}
+
+.h{
+    height: 2rem;
+}
+
+.bg-ligh{
+    background-color: #d1d4d8 ;
+}
